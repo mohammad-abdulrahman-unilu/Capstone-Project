@@ -1,0 +1,26 @@
+Company: Northwind Retail Group
+Period: Q4 FY2024
+
+Highlights:
+- Revenue: $4.2B (+12% YoY) driven by e-commerce growth and private-label expansion.
+- Gross margin: 38.4% (+90 bps) supported by supply-chain optimizations.
+- Operating income: $410M (+18% YoY); operating margin improved to 9.8%.
+- EPS: $1.24 vs $1.05 prior year; diluted share count stable.
+
+Segment performance:
+- E-commerce: $2.1B (+20% YoY); conversion up 150 bps after search relevance improvements.
+- Stores: $1.6B (+6% YoY); traffic +3%, basket size +2%.
+- Logistics services: $0.5B (+15% YoY); expanded third-party fulfillment contracts.
+
+Cash flow and balance sheet:
+- Operating cash flow: $520M; CapEx: $180M (warehouse automation, data infrastructure).
+- Net cash: $310M; Debt/EBITDA: 1.4x with no near-term maturities.
+
+Guidance:
+- FY2025 revenue growth 8-10% with focus on omnichannel and private-label penetration.
+- CapEx expected at $650M for new micro-fulfillment centers and analytics investments.
+- Target operating margin: 10.5-11.0% aided by mix shift and automation savings.
+
+Risks and considerations:
+- FX headwinds in Canadian market; freight cost volatility.
+- Competitive pressure from discounters; ongoing wage inflation in key regions.

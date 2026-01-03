@@ -1,0 +1,23 @@
+Company: Northwind Retail Group
+Document: Sustainability & ESG Update 2024
+
+Key initiatives:
+- Reduced Scope 2 emissions by 24% YoY via renewable PPAs in three distribution hubs.
+- Pilot circular packaging program reduced corrugate usage by 18% across top 50 SKUs.
+- Supplier audit coverage reached 86% of Tier-1 factories; 12 factories placed on improvement plans.
+
+Labor and diversity:
+- Frontline wage floor raised to $18/hr in US regions; attrition down 9%.
+- Management diversity: Women 44% of leadership roles (+3 ppts); URM representation 21%.
+
+Data and privacy:
+- Implemented privacy-by-design review for new personalization models; launched centralized consent service.
+- Completed third-party audit against SOC 2 Type II and ISO 27001 controls.
+
+Community and governance:
+- Expanded food donation program to 220 stores; 5.6M meals donated.
+- Board approved climate targets aligned with SBTi; compensation now ties 10% of annual bonus to ESG KPIs.
+
+Risks and watchpoints:
+- Supplier remediation delays in Southeast Asia; risk of shipment disruptions.
+- Data residency requirements could slow personalization roadmap in EU markets.
