@@ -27,8 +27,3 @@ Analysts sift through large volumes of financial and ESG disclosures to answer q
 - Faster analyst Q&A; measurable ROUGE uplift vs. BM25 baseline; reduced time-to-insight by retrieval + LLM synthesis.
 - Demonstrated path to scale (chunked processing, disk-backed vectors) and to production (swap vector DB, add observability).
 
-## Timeline (suggested)
-- Week 1: Data collection + ingestion pipeline.  
-- Week 2: RAG wiring + prompt tuning.  
-- Week 3: Evaluation, bias/privacy review, documentation.  
-- Week 4: Hardening (caching, deployment scaffold).
